@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="forback">#3e4021</color>
+    <color name="forbottom">#373a21</color>
+    <color name="forbar">#949484</color>
+</resources>
