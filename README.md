@@ -1,2 +1,2 @@
 # SimpleQuizApp
-## made by Mohamed Ebrahim
+## Made by Mohamed Ebrahim
